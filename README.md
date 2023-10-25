@@ -10,12 +10,12 @@ saya menamai aplikasi ini dengan nama "ComicVerse". Saya membuat aplikasi ini un
 
 - nama aplikasi : ComicVerse
 - target user :
-umur 14+
-seseorang yang menyukai membaca komik
-seseorang yang ingin mencari hiburan
-seseorang yang menyuikai certa visual
-seseorang yang menyukai membaca digital
-seseorang yang ingin menghilangkan stres
+-umur 14+
+-seseorang yang menyukai membaca komik
+-seseorang yang ingin mencari hiburan
+-seseorang yang menyuikai certa visual
+-seseorang yang menyukai membaca digital
+-seseorang yang ingin menghilangkan stres
 
 - theme  
     sederhana
